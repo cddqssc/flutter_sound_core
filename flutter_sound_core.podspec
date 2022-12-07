@@ -8,7 +8,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'flutter_sound_corem'
+  s.name             = 'flutter_sound_core'
   s.version          = '9.2.15'
   s.summary          = 'Provides simple recorder and player functionalities for iOS platform.'
 
